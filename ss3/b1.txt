@@ -1,0 +1,7 @@
+- Sinh viên trong tình huống trên đã sai ngay từ quan niệm “miễn sao ra kết quả là được”. Việc học lập trình không chỉ dừng lại ở việc có sản phẩm cuối cùng, mà quan trọng hơn là quá trình rèn luyện tư duy, kỹ năng giải quyết vấn đề và khả năng sáng tạo. Khi để AI làm hộ toàn bộ project, sinh viên đã đánh mất cơ hội học hỏi, đồng thời vi phạm nguyên tắc trung thực học thuật. Đây là một hành vi gian lận, bởi kết quả không phản ánh đúng năng lực thực sự.
+
+- Nếu xét ở góc độ “hiệu quả”, cách dùng AI này chỉ hiệu quả trước mắt, vì có thể nộp bài đúng hạn và đạt điểm số. Tuy nhiên, về lâu dài, sinh viên sẽ không có nền tảng kiến thức vững chắc, dẫn đến khó khăn trong học tập nâng cao cũng như trong công việc sau này. Do đó, đây là một kiểu “hiệu quả ảo” – đạt kết quả ngắn hạn nhưng gây hại cho bản thân về lâu dài.
+
+- Lời khuyên dành cho sinh viên là: hãy coi AI như một công cụ hỗ trợ, không phải người làm thay. Có thể dùng AI để gợi ý hướng đi, giải thích khái niệm, hoặc kiểm tra lỗi trong code. Quan trọng nhất là sinh viên vẫn phải chủ động tư duy, tự viết và hiểu rõ sản phẩm của mình.
+
+- Để sử dụng AI công bằng và đúng mục tiêu học tập, mỗi người cần xác định ranh giới: AI giúp hỗ trợ học, không thay thế học. Việc này đảm bảo kết quả phản ánh đúng năng lực, đồng thời vẫn tận dụng được lợi ích của công nghệ hiện đại.

@@ -1,0 +1,6 @@
+Quan sát kết quả AI trả về và ghi nhận nếu kết quả:
+
+Có đủ 5–7 ngôn ngữ không: có
+Định dạng có rõ ràng (gạch đầu dòng/ danh sách số) không: có
+
+- Hãy liệt kê 7 ngôn ngữ lập trình phổ biến nhất hiện nay, trình bày dưới dạng danh sách đánh số. Với mỗi ngôn ngữ, viết thêm 1 câu mô tả ngắn gọn (khoảng 10–15 từ) về đặc điểm hoặc lĩnh vực thường được sử dụng.

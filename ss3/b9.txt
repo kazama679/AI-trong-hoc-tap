@@ -1,0 +1,21 @@
+- Role Prompting: Bạn là một giảng viên lập trình đại học. Hãy đưa ra 5 lời khuyên để sinh viên năm nhất học lập trình hiệu quả hơn.
+- Format Prompting: Hãy trình bày 6 cách học lập trình hiệu quả dưới dạng bảng có 2 cột: Phương pháp – Lợi ích. Trình bày ngắn gọn, dễ hiểu.
+- Context Prompting: Tôi là sinh viên năm nhất chưa có nền tảng lập trình. Hãy hướng dẫn cách học lập trình hiệu quả để vượt qua môn C cơ bản ở trường đại học, kèm ví dụ minh họa cách phân chia thời gian học trong 1 tuần.
+
+
+- So sánh kết quả:
+
++ Role Prompting:
+	Điểm mạnh: Giọng văn rõ ràng, định hướng học tập, mang tính hướng dẫn.
+	Hạn chế: Chưa chi tiết về cách áp dụng thực tế (thời gian biểu, tài nguyên cụ thể).
+	Phù hợp: Khi cần lời khuyên tổng quan, mang tính định hướng.
+
++ Format Prompting:
+	Điểm mạnh: Rõ ràng, trực quan, dễ so sánh.
+	Hạn chế: Nội dung ngắn gọn, thiếu chiều sâu, không có ví dụ cụ thể.
+	Phù hợp: Khi cần tóm tắt nhanh để ghi nhớ hoặc làm tài liệu ôn tập.
+
++ Context Prompting:
+	Điểm mạnh: Rất sát thực tế, có ví dụ và thời gian biểu, dễ áp dụng ngay.
+	Hạn chế: Phạm vi hẹp, chỉ phù hợp cho người mới học hoặc tình huống cụ thể.
+	Phù hợp: Khi cần hướng dẫn cá nhân hóa theo ngữ cảnh cụ thể.

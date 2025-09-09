@@ -1,0 +1,3 @@
+- Bạn là một trợ giảng lập trình. Hãy giải thích khái niệm biến toàn cục và biến cục bộ trong ngôn ngữ C theo cách dễ hiểu cho người mới học. Trình bày sự khác biệt rõ ràng và đưa ra một ví dụ minh họa ngắn gọn bằng code C.
+
+- Bạn là một trợ giảng lập trình. Hãy tóm tắt kiến thức cơ bản về cấu trúc điều kiện trong C một cách ngắn gọn, dễ hiểu cho học sinh mới học. Đồng thời, đưa ra một ví dụ minh họa bằng C trong khoảng 5 dòng code.

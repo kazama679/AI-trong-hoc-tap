@@ -1,0 +1,8 @@
+- Bước 1: Phân tích prompt sai
+
++ Không có ngữ cảnh → "cái này" là gì? Người đọc/AI không biết cần giải thích kiến thức, đoạn văn, hay bài tập nào.
++ Không có mục tiêu cụ thể → Không rõ cần giải thích ngắn gọn, chi tiết, bằng ví dụ, hay chỉ tóm tắt.
++ Thiếu vai trò → Không chỉ định AI đóng vai trò gì (ví dụ: trợ giảng, giáo viên, người viết nội dung).
+
+- Bước 2: Viết lại prompt rõ ràng hơn
++ Bạn là một trợ giảng lập trình. Hãy giải thích khái niệm vòng lặp for trong C theo cách dễ hiểu cho người mới học, kèm theo một ví dụ code minh họa ngắn gọn.

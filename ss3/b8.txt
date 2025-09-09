@@ -1,0 +1,11 @@
+- Bước 1: Prompt đơn giản
++ Giải thích khái niệm Machine Learning.
+
+- Bước 2: Phân tích phản hồi AI (giả định kết quả thường gặp)
++ AI thường trả lời: “Machine Learning là lĩnh vực của trí tuệ nhân tạo, nơi máy tính học từ dữ liệu và cải thiện theo thời gian mà không cần lập trình trực tiếp.”
++ Vấn đề:
+	Giải thích còn quá chung chung, thiên về định nghĩa.
+	Không có ví dụ cụ thể (ví dụ như nhận diện hình ảnh, gợi ý phim).
+	Chưa rõ ràng cho người mới học, thiếu diễn giải đơn giản hoặc ví dụ dễ hình dung.
+
+- Bước 3: Prompt viết lại: Bạn là giảng viên đại học dạy môn Trí tuệ Nhân tạo. Hãy giải thích khái niệm Machine Learning cho người mới bắt đầu học lập trình AI cơ bản. Trình bày ngắn gọn dưới 200 từ, có kèm 1 ví dụ minh họa thực tế. Hãy trình bày câu trả lời bằng gạch đầu dòng để dễ đọc.

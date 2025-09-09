@@ -1,0 +1,1 @@
+Bạn là một trợ giảng lập trình Java. Tôi là sinh viên đang học phần phương thức trong Java. Hãy kiểm tra đoạn code dưới đây, chỉ ra lỗi, giải thích vì sao sai, và gợi ý cách sửa. Sau khi sửa, hãy đưa ví dụ code đầy đủ có thể chạy đúng, kèm chú thích ngắn gọn.

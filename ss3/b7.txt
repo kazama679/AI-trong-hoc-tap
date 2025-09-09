@@ -1,0 +1,20 @@
+- Prompt 1:
++ Vai trò (Role): Bạn là một trợ lý nghiên cứu học thuật
++ Nhiệm vụ (Task): Hãy tóm tắt 4 lợi ích của việc đọc sách
++ Chi tiết yêu cầu (Details): theo chủ đề Quản lý thời gian, giới hạn trong 5 dòng
++ Đối tượng (Audience): người học/độc giả quan tâm đến quản lý thời gian
++ Định dạng/Phong cách (Format/Style): tóm tắt, ngắn gọn trong 5 dòng
+
+- Prompt 2:
++ Vai trò (Role): Không nêu trực tiếp, nhưng ngầm hiểu AI đóng vai trò tư vấn công cụ học tập/sáng tạo
++ Nhiệm vụ (Task): Hãy liệt kê 5 ứng dụng AI miễn phí”
++ Chi tiết yêu cầu (Details): giúp cải thiện kỹ năng viết và sáng tạo nội dung, 5 ứng dụng
++ Đối tượng (Audience): người học hoặc người làm sáng tạo nội dung
++ Định dạng/Phong cách (Format/Style): bảng có 2 cột: Tên – Mục đích sử dụng
+
+- Prompt 3:
++ Vai trò (Role): Không nêu trực tiếp, nhưng ngầm hiểu AI là người hướng dẫn sinh viên quản lý thời gian
++ Nhiệm vụ (Task): Giải thích cách lên kế hoạch tuần hiệu quả
++ Chi tiết yêu cầu (Details): cho sinh viên mới vào trường, dùng ví dụ cụ thể
++ Đối tượng (Audience): sinh viên mới vào trường
++ Định dạng/Phong cách (Format/Style): trình bày bằng bullet point

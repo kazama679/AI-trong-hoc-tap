@@ -1,0 +1,15 @@
+- Bước 1: Hai prompt đầu vào
+
++ Prompt 1 (tổng quát): Tạo một kế hoạch tuần hiệu quả.
++ Prompt 2 (có cấu trúc tốt): Bạn là một trợ lý hướng dẫn quản lý thời gian. Hãy lập một kế hoạch tuần cho sinh viên mới, bao gồm: danh sách việc cần làm, thứ tự ưu tiên, khoảng thời gian dự kiến, và lưu ý cách tránh trì hoãn. Trình bày dưới dạng bảng hoặc bullet point, dễ hiểu cho người mới.
+
+- Bước 2: So sánh kết quả AI trả về
++ Với Prompt 1: AI thường trả lời ngắn, dạng chung chung như “sắp xếp công việc, dành thời gian nghỉ ngơi, đặt mục tiêu”. Nội dung thiếu chi tiết, không có cấu trúc rõ ràng, khó áp dụng trực tiếp.
++ Với Prompt 2: AI đưa ra bảng hoặc danh sách cụ thể, có khung giờ, việc ưu tiên, và kèm lưu ý chống trì hoãn. Phản hồi rõ ràng, dễ hiểu và phù hợp cho người mới học cách quản lý thời gian.
++ Tiêu chí đánh giá:
+	Độ rõ ràng & đầy đủ: Prompt 2 tốt hơn.
+	Phù hợp với người mới: Prompt 2 phù hợp hơn.
+	Hướng dẫn chi tiết: Prompt 2 có.
+
+- Bước 3: Phân tích đánh giá
++ Prompt 2 hiệu quả hơn vì có vai trò rõ ràng, mục tiêu cụ thể, và định dạng yêu cầu đầu ra. Trong khi đó, Prompt 1 quá chung chung nên phản hồi AI mơ hồ, khó dùng ngay. Qua hoạt động này, có thể rút ra rằng: để có câu trả lời chất lượng, prompt cần đầy đủ ngữ cảnh, mục tiêu, vai trò và định dạng mong muốn. Prompt càng rõ thì kết quả càng hữu ích và dễ áp dụng.

@@ -1,0 +1,15 @@
+- 1. Phân tích phản hồi chưa hiệu quả
+Prompt gốc: “Viết giúp tôi một đoạn code xử lý chuỗi.
+
++ Lý do phản hồi AI chưa đạt yêu cầu:
+	Quá chung chung → “xử lý chuỗi” có nhiều dạng (cắt chuỗi, tìm kiếm, đảo ngược…), AI không biết mục tiêu cụ thể. Vì vậy, nó thường trả về ví dụ đơn giản nhất (in chuỗi).
+	Thiếu ngữ cảnh người học → Không rõ bạn đang học ngôn ngữ nào (C, Java, Python) và trình độ ra sao (mới bắt đầu, nâng cao).
+	Thiếu yêu cầu về cách trình bày → Không yêu cầu ví dụ minh họa, không chỉ định định dạng (giải thích kèm code, bảng bước làm, v.v.).
+
+- 2. Những gì còn thiếu trong prompt
++ Vai trò AI (ví dụ: trợ giảng lập trình).
++ Mục tiêu xử lý chuỗi cụ thể (ví dụ: đảo ngược chuỗi, kiểm tra palindrome).
++ Ngữ cảnh (người học mới bắt đầu học C, cần giải thích dễ hiểu).
++ Yêu cầu minh họa (code + giải thích ngắn).
+
+- 3. Prompt viết lại: Bạn là một trợ giảng lập trình. Hãy viết một đoạn code bằng ngôn ngữ C để kiểm tra xem một chuỗi có phải là palindrome hay không. Trình bày lời giải theo cách dễ hiểu cho người mới học, kèm giải thích từng bước chính và một ví dụ minh họa với chuỗi cụ thể. Code và lời giải nên trình bày rõ ràng, dễ đọc.
