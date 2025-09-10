@@ -1,0 +1,94 @@
+- Prompt ban đầu: Hãy hướng dẫn cách chuẩn bị một workshop cho sinh viên năm nhất.
+
+- Prompt chỉnh sửa (bổ sung phân công nhân sự, công cụ hỗ trợ, cách đánh giá): Bạn là người tổ chức sự kiện. Hãy trình bày kế hoạch chuẩn bị workshop cho sinh viên năm nhất. Bổ sung chi tiết: phân công nhân sự (vai trò & trách nhiệm), các công cụ/phần mềm/hardware cần dùng, và cách đánh giá hiệu quả workshop (các chỉ số, phương pháp thu dữ liệu). Viết rõ theo các mục: mục tiêu, timeline, nhân sự, công cụ, nội dung, truyền thông, logistics, đánh giá.
+
+- Yêu cầu viết lại kết quả cuối theo định dạng checklist từng bước: Hãy viết lại mọi thứ từ kết quả trên thành checklist từng bước (chronological), có timeline cụ thể (6 tuần trước → sau workshop), mỗi bước kèm checkbox và nêu rõ người chịu trách nhiệm và công cụ chính cần dùng.
+
+
+AI trả lời: 
+Checklist chuẩn bị workshop cho sinh viên năm nhất: 
+6 tuần trước (Ý tưởng & quyết định)
+
+ Xác định mục tiêu cụ thể của workshop (ví dụ: giới thiệu kỹ năng học tập; tăng tương tác khoa–sinh viên). — Trưởng ban — Google Doc/Notion
+
+ Xác định đối tượng & sức chứa (số lượng dự kiến). — Trưởng ban — Google Sheet
+
+ Dự toán ngân sách sơ bộ (phòng, in ấn, ăn uống, thiết bị). — Trưởng ban — Google Sheet
+
+5–4 tuần trước (Nội dung & diễn giả)
+
+ Chốt nội dung & agenda (các phiên, thời lượng từng phiên). — Content Lead — Google Slides/Doc
+
+ Mời/confirm diễn giả & facilitator; ký kết/thoả thuận (nêu chi phí nếu có). — Organizer / Content Lead — Email/Google Calendar
+
+ Thiết kế tài liệu chính (slide chủ đạo, handout). — Content Lead — Google Slides, Canva
+
+ Lên kịch bản chi tiết (script MC, thời gian Q&A, hoạt động nhóm). — Content Lead & MC — Notion/Google Doc
+
+3 tuần trước (Truyền thông & đăng ký)
+
+ Tạo form đăng ký (Google Forms / Eventbrite) + trường thông tin cần thiết. — Registration — Google Forms
+
+ Thiết kế và đăng poster/âm bản truyền thông (Facebook, fanpage khoa, group sinh viên). — Marketing — Canva, Facebook
+
+ Mở đăng ký, theo dõi số lượng. — Registration — Google Sheet
+
+ Tuyển và phân công tình nguyện viên (số lượng, ca trực). — Organizer — Slack/WhatsApp
+
+2 tuần trước (Logistics & kỹ thuật)
+
+ Book địa điểm (phòng hội, sắp xếp ghế) hoặc thiết lập kịch bản hybrid. — Logistics — Email / Booking system
+
+ Xác nhận thiết bị AV (máy chiếu, mic, loa, laptop) và đặt thiết bị dự phòng. — Kỹ thuật/AV — Checklist thiết bị
+
+ Lên plan truyền thông nhắc nhở (email nhắc, poster countdown). — Marketing/Registration — Mail merge/Google Calendar
+
+ Chuẩn bị tài liệu in (handout, name-tag, chương trình). — Logistics — In ấn local
+
+1 tuần trước (Xác nhận & rehearsal)
+
+ Gửi confirmation email và hướng dẫn tham gia (địa điểm, giờ, lưu ý). — Registration — Gmail/Google Calendar
+
+ Chạy rehearsal nội bộ: diễn giả & MC test slide, chạy flow chương trình. — Content Lead, MC, Kỹ thuật — Zoom/On-site test
+
+ Chuẩn bị khảo sát trước & sau (Google Forms): pre-test (nếu có), feedback form. — Evaluation Analyst — Google Forms
+
+ Chuẩn bị kịch bản dự phòng (speaker vắng, mất điện, mạng chập chờn). — Organizer & Kỹ thuật — Doc
+
+3 ngày → 1 ngày trước (Hoàn tất)
+
+ In danh sách tham dự & name-tag; in handout. — Registration / Logistics — In ấn
+
+ Kiểm tra lại thiết bị AV tại địa điểm (độ sáng, âm thanh, dây cáp). — Kỹ thuật — Checklist AV
+
+ Chuẩn bị khu vực check-in: bàn, laptop/phiếu, bảng tên. — Volunteer & Registration — Laptop, máy in
+
+ Gửi reminder cuối cùng tới người đã đăng ký (thời gian, địa điểm, yêu cầu mang theo). — Marketing — Email/SMS/Group chat
+
+Ngày diễn ra (D – Day)
+
+ Đến địa điểm sớm để bố trí (60–90 phút trước). — Logistics & Volunteer — Bảng ghế, tape, bảng chương trình
+
+ Kỹ thuật kiểm tra lần cuối AV & livestream (30–45 phút trước). — Kỹ thuật — Laptop, mic, kết nối mạng
+
+ Bàn check-in hoạt động: xác nhận danh sách, phát tài liệu, name-tag. — Registration — Laptop, máy in
+
+ MC mở chương trình, giới thiệu agenda & quy tắc (5 phút). — MC — Script
+
+ Thực hiện từng phiên theo agenda; facilitator điều phối hoạt động nhóm & Q&A. — Facilitator / Content Lead — Slides, hoạt động tương tác
+
+ Thu khảo sát sau ngay tại chỗ hoặc gửi link để điền trước khi rời. — Evaluation Analyst / Registration — Google Forms / QR code
+
+ Chụp ảnh/ghi lại video & ghi chép ý kiến chính. — Volunteer / Note-taker — Camera, điện thoại
+
+Sau workshop (1 ngày → 1 tuần)
+
+ Gửi thư cảm ơn + tài liệu/slide cho người tham dự. — Organizer / Content Lead — Gmail, Google Drive link
+
+ Gửi/nhắc hoàn thành khảo sát feedback (deadline 3–7 ngày). — Evaluation Analyst — Google Forms
+
+ Tổng hợp dữ liệu: attendance, điểm khảo sát, số tương tác, kết quả pre/post (nếu có). — Evaluation Analyst — Google Sheet
+
+ Viết report ngắn (tổng hợp KPI, điểm mạnh, điểm cần cải thiện, đề xuất lần sau). — Organizer — Google Doc
+
+ Họp nhóm rút kinh nghiệm (post-mortem) + lưu trữ tài liệu cho lần sau. — Toàn bộ team — Notion/Drive

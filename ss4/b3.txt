@@ -1,0 +1,17 @@
+- Prompt ban đầu: Giới thiệu về AI.
+
++ Quá chung chung, không rõ đối tượng người nhận thông tin: Không biết trả lời cho ai.
++ Thiếu ví dụ chi tiết và ứng dụng cụ thể: Các ứng dụng nêu rất chung.
++ Thiếu hướng dẫn tiếp theo: Không có gợi ý học tập, nguồn hay bài tập để tiếp cận.
+
+- Prompt chỉnh sửa Vòng 1: Bạn là giảng viên, hãy giới thiệu về AI cho sinh viên năm nhất ngành CNTT bằng ngôn ngữ đơn giản (khoảng 150–200 từ). Nêu định nghĩa ngắn, 3 ví dụ ứng dụng thực tế (ít nhất 1 ví dụ liên quan đến Việt Nam/ doanh nghiệp Việt Nam hoặc mô tả ứng dụng trong bối cảnh Việt Nam), và 3 kỹ năng sinh viên nên học để bắt đầu.
+
+- Prompt chỉnh sửa Vòng 2: Bạn là giảng viên dạy mô-đun nhập môn AI. Hãy giải thích ngắn gọn (120–180 chữ) về AI cho sinh viên năm nhất CNTT. Kèm theo:
++ Hai ví dụ thực tế ở Việt Nam (mô tả cụ thể ứng dụng — không cần nêu tên công ty nhưng mô tả rõ dịch vụ).
++ Một đoạn mã Python ngắn (5–8 dòng) minh họa vòng lặp huấn luyện đơn giản (ví dụ giả lập lặp epoch).
++ Hai bài tập thực hành đơn giản để sinh viên làm trong 1 tuần.
++ Viết rõ, dùng ngôn ngữ dễ hiểu, định dạng rõ ràng.
+
+- Nhận xét:
++ Cải thiện rõ rệt: Có giải thích cô đọng, hai ví dụ mô tả cụ thể trong bối cảnh VN, đoạn mã minh họa vòng lặp, và bài tập thực tế — đáp ứng yêu cầu “hữu dụng để học”.
++ Có thể tiếp tục cải thiện: nếu cần, có thể yêu cầu: đưa mã đầy đủ chạy được (không chỉ mô phỏng), hoặc thêm tiêu chí chấm cho bài tập, hoặc rút gọn/nâng cao độ khó cho từng nhóm trình độ.

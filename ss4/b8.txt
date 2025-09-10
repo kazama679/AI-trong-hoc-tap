@@ -1,0 +1,31 @@
+Bước 1 – Phân tích ưu nhược điểm
+
+Phương án:
+
+	AI điểm danh & theo dõi chuyên cần → Ưu: giảm gian lận, tiết kiệm thời gian. Nhược: chi phí camera, lo ngại riêng tư.
+
+	AI hỗ trợ chấm điểm → Ưu: nhanh, công bằng hơn. Nhược: có thể thiên vị, cần dữ liệu chuẩn.
+
+	AI cố vấn học tập cá nhân hóa → Ưu: hỗ trợ sinh viên tốt hơn. Nhược: phức tạp, tốn chi phí, lo ngại bảo mật.
+
+Bước 2 – Thêm điều kiện (Iterative Prompting)
+
+Phân tích bổ sung:
+
+	Rủi ro đạo đức: AI thiên vị khi chấm điểm, theo dõi gây áp lực cho sinh viên.
+
+	Bảo mật: dữ liệu học tập và khuôn mặt cần mã hóa, tránh lộ lọt.
+
+Bước 3 – Đề xuất & Kế hoạch
+
+Giải pháp tối ưu: AI cố vấn học tập cá nhân hóa (kết hợp chấm điểm hỗ trợ).
+
+	Lý do: giúp sinh viên tiến bộ thực chất, hỗ trợ giảng viên, đồng thời có thể quản lý bảo mật theo chuẩn.
+
+	Lộ trình 6–12 tháng:
+
+	Thử nghiệm với 1 khoa (~3 tháng).
+
+	Đánh giá hiệu quả: điểm số, phản hồi sinh viên & giảng viên (~3 tháng).
+
+	Mở rộng ra toàn trường, tích hợp thêm tính năng quản lý khác (~6 tháng).

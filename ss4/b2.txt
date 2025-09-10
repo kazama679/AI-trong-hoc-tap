@@ -1,0 +1,15 @@
+1. Prompt ban đầu: Giải thích khái niệm vòng lặp trong lập trình.
+- Đặc điểm:
++ Yêu cầu giải thích, nhưng chưa rõ đối tượng người học.
++ Chưa có ví dụ minh họa cụ thể, nên câu trả lời có thể chung chung.
+
+2. Prompt sau khi sửa: Bạn là giảng viên, hãy giải thích khái niệm vòng lặp trong lập trình bằng ngôn ngữ đơn giản, kèm 1 ví dụ Python minh họa.
+
+- Đặc điểm cải thiện:
++ Thêm vai trò (giảng viên) → tạo phong cách giảng dạy rõ ràng, dễ hiểu.
++ Thêm yêu cầu ngôn ngữ đơn giản → phù hợp cho người mới bắt đầu.
++ Thêm ví dụ minh họa bằng Python → giúp người học hình dung và áp dụng ngay.
+
+3. So sánh kết quả trước và sau:
+- Nhận xét trước: Ngắn gọn, nhưng hơi lý thuyết, chưa có ví dụ minh họa → khó tiếp cận với người mới học.
+- Nhận xét sau: Rõ ràng, có ví dụ minh họa cụ thể → dễ hình dung và áp dụng trong học tập.

@@ -1,0 +1,11 @@
+1.Lý do không hiệu quả:
+- Thiếu ngữ cảnh: Người đọc không biết “cái này” là gì → không thể xác định chủ đề để giải thích.
+- Thiếu mục tiêu học tập: Không rõ người hỏi muốn giải thích để làm gì (để hiểu khái niệm, để làm bài tập, hay để áp dụng thực tế).
+
+- Có thể viết lại theo các hướng khác nhau:
++ Giải thích: Hãy giải thích khái niệm điện toán đám mây và nêu lý do tại sao nó quan trọng trong công nghệ hiện nay.
++ Tóm tắt: Hãy tóm tắt ngắn gọn các ý chính về lý thuyết học máy để người mới bắt đầu dễ hiểu.
++ Liệt kê: Hãy liệt kê 3 ưu điểm và 3 hạn chế của trí tuệ nhân tạo trong lĩnh vực giáo dục.
++ Minh họa: Hãy minh họa cách hoạt động của blockchain bằng một ví dụ đơn giản trong đời sống hằng ngày.
+
+2. Ví dụ áp dụng trong học tập: Hãy giải thích khái niệm điện toán đám mây bằng ví dụ trong đời sống hằng ngày, chẳng hạn như việc lưu trữ ảnh trên Google Drive.
